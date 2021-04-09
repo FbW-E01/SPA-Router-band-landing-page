@@ -11,7 +11,7 @@ Your solution doesn't have to have any transitions by default.
 
 #### BONUS
 
-You can experiment with transitions between pages as well using. Here are some interesting libraries:
+You can experiment with transitions between pages as well. Here are some interesting libraries:
 
 - https://reactcommunity.org/react-transition-group/
 - https://www.framer.com/motion/
